@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hi!%20I'm%20Sazidan%20(Sza)%20%F0%9F%91%8B&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20Automation%20Specialist&descAlignY=55&descSize=20" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hi!%20I'm%20Sazidan%20(Ra)%20%F0%9F%91%8B&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20Automation%20Specialist&descAlignY=55&descSize=20" alt="Animated Header" />
   
   <br>
 
@@ -73,23 +73,21 @@
 
 ---
 
-## 🏆 GitHub Achievements & Stats
+## 🏆 GitHub Metrics & Activity
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Muhamad-SazidanA&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhamad-SazidanA&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhamad-SazidanA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamad-SazidanA&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhamad-SazidanA&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamad-SazidanA&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamad-SazidanA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamad-SazidanA&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="Top Languages" width="48%" />
 </div>
 
 ---
