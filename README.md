@@ -80,7 +80,7 @@
 <div align="center">
   <!-- GitHub Trophies (Gamifikasi Interaktif) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB_MU&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Muhamad-SazidanA&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -88,13 +88,13 @@
 
 <div align="center">
   <!-- Statistik Utama -->
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_MU&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhamad-SazidanA&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" width="48%" />
   <!-- Statistik Streak Beruntun -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_MU&theme=tokyonight&hide_border=true&stroke=0000&title_color=3B82F6" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamad-SazidanA&theme=tokyonight&hide_border=true&stroke=0000&title_color=3B82F6" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_MU&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamad-SazidanA&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -105,13 +105,13 @@ Aktivitas *commit* harian saya dikumpulkan dan dimainkan oleh ular di bawah ini!
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME_GITHUB_MU/USERNAME_GITHUB_MU/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME_GITHUB_MU/USERNAME_GITHUB_MU/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME_GITHUB_MU/USERNAME_GITHUB_MU/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhamad-SazidanA/Muhamad-SazidanA/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhamad-SazidanA/Muhamad-SazidanA/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Muhamad-SazidanA/Muhamad-SazidanA/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
 <br/>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/USERNAME_GITHUB_MU/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/Muhamad-SazidanA/count.svg" alt="Profile Views" />
 </div>
