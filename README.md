@@ -1,10 +1,8 @@
 <div align="center">
-  <!-- Banner Animasi Bergerak -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hi!%20I'm%20Sazidan%20(Ra)%20%F0%9F%91%8B&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20Automation%20Specialist&descAlignY=55&descSize=20" alt="Animated Header" />
   
   <br>
 
-  <!-- Social Badges dengan efek hover bawaan GitHub -->
   <a href="https://www.linkedin.com/in/sazidan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/szdnn3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://sazidan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -14,10 +12,10 @@
 
 ## 👨‍💻 About Me
 
-*   🔭 Saat ini sedang mengembangkan **AutoTax** (otomatisasi data faktur pajak ke Coretax) dan proyek **Smart-Base-FNB**.
-*   🌱 Sedang memperdalam **Next.js** untuk *frontend*, **Golang** untuk *backend*, dan implementasi *local AI* menggunakan **Ollama**.
-*   ⚙️ Memiliki spesialisasi dalam merancang *workflow automation* untuk menyederhanakan proses bisnis.
-*   📫 Hubungi saya untuk kolaborasi proyek atau *freelance*!
+* 🔭 Saat ini sedang mengembangkan **AutoTax** (otomatisasi data faktur pajak ke Coretax) dan proyek **Smart-Base-FNB**.
+* 🌱 Sedang memperdalam **Next.js** untuk *frontend*, **Golang** untuk *backend*, dan implementasi *local AI* menggunakan **Ollama**.
+* ⚙️ Memiliki spesialisasi dalam merancang *workflow automation* untuk menyederhanakan proses bisnis.
+* 📫 Hubungi saya untuk kolaborasi proyek atau *freelance*!
 
 ---
 
@@ -78,7 +76,6 @@
 ## 🏆 GitHub Achievements & Stats
 
 <div align="center">
-  <!-- GitHub Trophies (Gamifikasi Interaktif) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Muhamad-SazidanA&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="GitHub Trophies" />
   </a>
@@ -87,9 +84,7 @@
 <br>
 
 <div align="center">
-  <!-- Statistik Utama -->
   <img src="https://github-readme-stats.vercel.app/api?username=Muhamad-SazidanA&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" width="48%" />
-  <!-- Statistik Streak Beruntun -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamad-SazidanA&theme=tokyonight&hide_border=true&stroke=0000&title_color=3B82F6" alt="GitHub Streak" width="48%" />
 </div>
 
@@ -101,7 +96,7 @@
 
 ## 🎮 Contribution Snake Game
 
-Aktivitas *commit* harian saya dikumpulkan dan dimainkan oleh ular di bawah ini! 
+Aktivitas *commit* harian saya dikumpulkan dan dimainkan oleh ular di bawah ini!
 
 <div align="center">
   <picture>
