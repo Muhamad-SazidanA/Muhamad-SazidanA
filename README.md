@@ -84,12 +84,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhamad-SazidanA&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamad-SazidanA&theme=tokyonight&hide_border=true&stroke=0000&title_color=3B82F6" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhamad-SazidanA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamad-SazidanA&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamad-SazidanA&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamad-SazidanA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -107,6 +107,7 @@ Aktivitas *commit* harian saya dikumpulkan dan dimainkan oleh ular di bawah ini!
 </div>
 
 <br/>
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Muhamad-SazidanA/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Muhamad-SazidanA&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views" />
 </div>
